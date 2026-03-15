@@ -3,3 +3,8 @@ This dashboard is a high-level technical and operational oversight tool designed
 The visual layout focuses on three key pillars: delivery speed, operational efficiency, and software quality. By showcasing a clear transition from high-latency handovers and slow bug resolution in the early stages to the current state of high-velocity sprints and rapid defect fixes, the dashboard serves as proof of a successful process turnaround. Ultimately, it identifies remaining high-risk technical hurdles, such as critical security vulnerabilities, to ensure that the final push toward release is data-driven and transparent. 
 
 Accompanying this dashboard is the STC Commentary file, which serves as a practical blueprint for our analytical team. From a business perspective, this document is essential because it establishes a 'communication standard,' ensuring that every technical metric is translated into consistent, strategic insights for the board. Technically, the STC Commentary provides a step-by-step example of how an analyst uses the dashboard to explain the current situation to leadership. 
+![Dashboard Preview](Dashboard%20STC.jpg)
+
+### **STC Leadership Dashboard Analysis**
+
+Let's walk through the STC Leadership Dashboard for the Autoscuola ERP 2025 project...
